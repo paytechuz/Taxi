@@ -14,13 +14,13 @@ python manage.py runserver
 
 ## Sozlash
 
-`.env.sample` faylini `.env` ga nusxalang va `PAYTECH_LICENSE_API_KEY` ni kiriting:
+`.env.sample` faylini `.env` ga nusxalang va to'lov tizimlaridan olgan kalitlaringizni kiriting:
 
 ```bash
 cp .env.sample .env
 ```
 
-API kalitni olish uchun https://pay-tech.uz/console/ sahifasiga o'ting va litsenziya sotib oling.
+PayTechUZ MIT litsenziyasi ostida to'liq ochiq kodli — litsenziya kaliti, aktivatsiya yoki limit yo'q. Faqat Payme / Click / Uzum / Paynet merchant ma'lumotlaringiz kerak.
 
 ## API Hujjatlari
 
