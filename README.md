@@ -20,8 +20,6 @@ python manage.py runserver
 cp .env.sample .env
 ```
 
-PayTechUZ MIT litsenziyasi ostida to'liq ochiq kodli — litsenziya kaliti, aktivatsiya yoki limit yo'q. Faqat Payme / Click / Uzum / Paynet merchant ma'lumotlaringiz kerak.
-
 ## API Hujjatlari
 
 Quyida mavjud API'lar va ulardan foydalanish uchun curl misollar keltirilgan.
